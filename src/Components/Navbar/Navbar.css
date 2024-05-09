@@ -1,7 +1,7 @@
 nav{
     width: 100%;
-    background: #64aeb9;
-    color: #fff;
+    /* background: #64aeb9; */
+    color: #ffffff;
     padding:4px 0;
     position: fixed;
     top: 0;
@@ -19,6 +19,7 @@ nav{
 
 nav ul li{
     list-style: none;
+    color: rgb(246, 233, 100);
     display: inline-block;
     margin: 5px 20px;
     font-size: 16px;
